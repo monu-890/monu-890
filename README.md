@@ -4,7 +4,7 @@ I'm a **data scientist** with a passion for uncovering insights from data and so
 
 ### 💼 Skills
 - **Excel:** 📊 Proficient in data manipulation, analysis, and visualization. Skilled in using advanced Excel features such as pivot tables, data modeling, and VBA macros.
-- **SQL:** 🗃️ Strong understanding of SQL for data extraction, transformation, and analysis. Experienced with relational database management systems like MySQL, PostgreSQL, and SQLite.
+- **SQL:** 🗃️ Strong understanding of SQL for data extraction, transformation, and analysis. Experienced with relational database management systems like MySQL.
 - **Power BI:** 📈 Experienced in creating interactive dashboards and reports using Power BI. Skilled in data modeling, DAX calculations, and optimizing performance.
 - **Python:** 🐍 Proficient in Python for data analysis, machine learning, and automation. Experienced with libraries such as pandas, NumPy, Matplotlib, and Scikit-learn.
 
